@@ -100,7 +100,6 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "291BFDB81BB9E85400FFB029"
             BuildableName = "watchOS Example.app"
-            BlueprintName = "watchOS Example"
             ReferencedContainer = "container:AFNetworking Example.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -124,7 +123,6 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "291BFDB81BB9E85400FFB029"
             BuildableName = "watchOS Example.app"
-            BlueprintName = "watchOS Example"
             ReferencedContainer = "container:AFNetworking Example.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
